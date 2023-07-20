@@ -1,6 +1,5 @@
 import cv2
 import matplotlib.pyplot as plt
-import numpy as np
 
 #LOADING THE IMAGES TAKEN FROM 3D Slicer
 image = cv2.imread('/Users/siddhantagarwal/Desktop/image.jpeg')
